@@ -49,3 +49,4 @@ index.html
 + 资源加载打包工具：[Webpack](https://webpack.github.io/)
 + 代码规范工具：[eslint](http://eslint.org/)
 + 其他：[ES6](https://wohugb.gitbooks.io/ecmascript-6/content/index.html)
++ 测试下改变了没
